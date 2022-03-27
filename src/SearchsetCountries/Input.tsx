@@ -3,7 +3,7 @@ import './Input.css'
 
 const Input = () => {
     return <div >
-
+          <input placeholder={'Select'} />
     </div>
 }
 

@@ -4,11 +4,9 @@ import Input from "./Input";
 import Select from "./Select";
 
 const SearchsetCountries = () => {
-    return <div >
+    return <div className={'container'}>
         <Input/>
-         name props.setCountries(data)
         <Select/>
-        region props.setCountries(data)
     </div>
 }
 
