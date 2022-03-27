@@ -1,0 +1,17 @@
+.mode {
+    border: 1px green solid;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: lightgray;
+    height: 60px;
+}
+
+.textleft {
+    padding-top: 15px;
+}
+
+.textright{
+    padding-top: 15px;
+}
