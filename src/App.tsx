@@ -5,7 +5,7 @@ import SearchsetCountries from "./SearchsetCountries/SearchsetCountries";
 import CountriesList from "./CountriesList/CountriesList";
 import {countryApi} from "./api/country";
 import {BrowserRouter, Route, Routes} from "react-router-dom";
-import Countrydetails from "./CountriesList/Countrydetails";
+import Countrydetails from "./CountriesList/Countrydetails/Countrydetails";
 
 function App() {
     const [data, setData] = useState()
