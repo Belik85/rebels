@@ -22,3 +22,13 @@
     display: flex;
     flex-direction: column;
 }
+
+
+
+
+
+.countryDark {
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    background-color: darkslategray;
+}

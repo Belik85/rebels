@@ -2,7 +2,8 @@ import React from 'react';
 import './Country.css'
 
 const Country = (props: any) => {
-    return <div className={'country-container'}>
+
+    return <div className={props.isDark ? 'countryDark':'country-container'}>
         <img className={'country-img'} src={props.flag}/>
         <div className="country-info">
             <div className="country-title">

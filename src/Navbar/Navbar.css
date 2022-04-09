@@ -13,3 +13,13 @@
 .textright{
     padding-top: 15px;
 }
+
+.navDark {
+    border: 1px green solid;
+    display: flex;
+    justify-content: space-between;
+    background-color: darkslategray;
+    height: 60px;
+
+
+}

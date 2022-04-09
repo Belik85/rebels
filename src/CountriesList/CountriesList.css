@@ -5,3 +5,13 @@
     gap: 20px;
     margin-top: 20px;
 }
+
+
+.countryDark{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 20px;
+    margin-top: 20px;
+    background-color: darkslategray;
+}

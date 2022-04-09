@@ -34,7 +34,7 @@ const Countrydetails = (props: any) => {
 
             const bor = data[0].borders
             setBor(bor)
-            console.log('111111111111111111',bor)
+            // console.log('111111111111111111',bor)
 
 
 

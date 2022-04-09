@@ -1,0 +1,8 @@
+.selectContainer select{
+    height: 35px;
+    width: 170px;
+    margin-top: -10px;
+    border-radius: 4px;
+    padding-left: 10px;
+
+}
